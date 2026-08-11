@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BanglaPro Keyboard</string>
+    <string name="subtype_bangla">বাংলা (Bangla)</string>
+    <string name="subtype_english">English (US)</string>
+    <string name="ime_service_name">BanglaPro Input Method</string>
+    <string name="enable_keyboard_title">Enable BanglaPro Keyboard</string>
+    <string name="enable_keyboard_desc">Step 1: Turn on BanglaPro Keyboard in Android Settings</string>
+    <string name="select_keyboard_title">Select BanglaPro Keyboard</string>
+    <string name="select_keyboard_desc">Step 2: Choose BanglaPro as your active input method</string>
+    <string name="test_keyboard_hint">Tap here to test BanglaPro Keyboard…</string>
+    <string name="privacy_note">Privacy Guaranteed: BanglaPro runs 100% offline. We never record or transmit typed passwords, personal messages, or sensitive data.</string>
+</resources>
